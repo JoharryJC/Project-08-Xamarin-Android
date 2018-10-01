@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="UserName">Nombre del Usuario</string>
+    <string name="Status">Estatus</string>
+    <string name="Token">Codigo</string>
+    <string name="ApplicationName">Manejo de Recursos en Android</string>
+</resources>
